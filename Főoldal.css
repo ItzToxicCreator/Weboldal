@@ -1,0 +1,14 @@
+body{
+  background-color: lightslategray;
+  margin: auto;
+align-items: center;
+}
+#foldal{
+  margin: 10px 20px 30px; 
+  font-size: 40px;
+  background-color: gray;
+  border: black 4px solid;
+  padding: 10px;
+  user-select: none;
+  text-align: center;
+}
